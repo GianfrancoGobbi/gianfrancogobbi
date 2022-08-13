@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'am Gianfranco</h1>
 <h3 align="center">Full Stack developer | Graphic Designer</h3>
 
-<div align="center" 
+<div align="center" >
  <img src="https://media3.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47yvug7aqn86xx86homjzru3odq1r4po6xm62k9oop&rid=giphy.gif&ct=g" alt="html5" /> 
- />
+ <div/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianfrancogobbi&label=Profile%20views&color=0e75b6&style=flat" alt="gianfrancogobbi" /> </p>
