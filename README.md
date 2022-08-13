@@ -11,7 +11,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianfrancogobbi" alt="gianfrancogobbi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/giangobbi" target="blank"><img src="https://img.shields.io/twitter/follow/giangobbi?logo=twitter&style=for-the-badge" alt="giangobbi" /></a> </p>
-
+<div align="left" >
 - 🔭 I’m currently working on [Weedical](https://weedical.netlify.app/)
 
 - 🌱 I’m currently learning **TypeScrip**
@@ -21,7 +21,7 @@
 - 📫 How to reach me **gianfrancogobbi@outlook.com**
 
 - 📄 Know about my experiences [https://gianfrancogobbi.netlify.app/Cv](https://gianfrancogobbi.netlify.app/Cv)
-
+ <div/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/giangobbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giangobbi" height="30" width="40" /></a>
