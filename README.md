@@ -4,12 +4,8 @@
 <div align="center" >
  <img src="https://media3.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47yvug7aqn86xx86homjzru3odq1r4po6xm62k9oop&rid=giphy.gif&ct=g" alt="html5" /> 
  <div/>
-
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianfrancogobbi" alt="gianfrancogobbi" /></a> </p>
-
+ 
+ 
 <p align="left"> <a href="https://twitter.com/giangobbi" target="blank"><img src="https://img.shields.io/twitter/follow/giangobbi?logo=twitter&style=for-the-badge" alt="giangobbi" /></a> </p>
 <div align="left" >
 - 🔭 I’m currently working on [Weedical](https://weedical.netlify.app/)
@@ -43,3 +39,5 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gianfrancogobbi&" alt="gianfrancogobbi" /></p>
  <div/>
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianfrancogobbi" alt="gianfrancogobbi" /></a> </p>
