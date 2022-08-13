@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianfrancogobbi&label=Profile%20views&color=0e75b6&style=flat" alt="gianfrancogobbi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianfrancogobbi" alt="gianfrancogobbi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianfrancogobbi" alt="gianfrancogobbi" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/giangobbi" target="blank"><img src="https://img.shields.io/twitter/follow/giangobbi?logo=twitter&style=for-the-badge" alt="giangobbi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/giangobbi" target="blank"><img src="https://img.shields.io/twitter/follow/giangobbi?logo=twitter&style=for-the-badge" alt="giangobbi" /></a> </p>
 
 - 🔭 I’m currently working on [Weedical](https://weedical.netlify.app/)
 
